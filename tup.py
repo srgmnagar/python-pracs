@@ -1,0 +1,5 @@
+tuple=tuple(int(input(f"Enter {i}th elemnt "))for i in range(5))
+print("Tuple is: ", tuple)
+print(tuple.max())
+print(tuple.min())
+print(tuple.sum())
